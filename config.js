@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285748839210'] 
-global.mods = ['6285748839210'] 
-global.prems = ['6285748839210'] 
+global.owner = ['6285748839210','6281277154756'] 
+global.mods = ['6285748839210','6281277154756'] 
+global.prems = ['6285748839210','6281277154756'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'FajarM'
-global.numberowner = '6285748839210'
+global.nameowner = 'FajarM','Abiy'
+global.numberowner = '6285748839210','6281277154756'
 global.instagram = 'https://www.instagram.com/fajarmelfiano/'
 global.github = 'https://github.com/FajarMelfiano'
 global.dana = '085748839210'
