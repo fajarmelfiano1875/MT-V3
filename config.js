@@ -1,31 +1,31 @@
 //=============『 Utama 』================== //
-global.owner = ['6285748839210','6281277154756'] 
-global.mods = ['6285748839210','6281277154756'] 
-global.prems = ['6285748839210','6281277154756'] 
+global.owner = ['6289637830532','6288905138697'] 
+global.mods = ['6289637830532','6288905138697'] 
+global.prems = ['6289637830532','6288905138697'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'FajarM','Abiy'
-global.numberowner = '6285748839210','6281277154756'
-global.instagram = 'https://www.instagram.com/fajarmelfiano/'
-global.github = 'https://github.com/FajarMelfiano'
-global.dana = '085748839210'
-global.pulsa = '085748839210'
-global.gopay = '085748839210'
+global.nameowner = 'Paldios'
+global.numberowner = '6289637830532'
+global.instagram = 'https:/289637830532/instagram.com/Paldiiiiii'
+global.github = 'Gaada'
+global.dana = '0089637830532'
+global.pulsa = '089637830532'
+global.gopay = '085774717205'
 //=============『 Info Bot 』=================//
 global.namebot = 'MT-BotzMD'
-global.gc = 'https://chat.whatsapp.com/D3CbE9IsIey2L5dUD77BAK'
-global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'gaada'
+global.web = 'https://instagram.com/Paldiiiiii' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/d12fe3537844d8e3080d0.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/d12fe3537844d8e3080d0.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'WHATSHAPP BOT'
 global.watermark = wm
-global.wm2 = '                     「 MT-𝙼𝙳 あ⁩ 」'
-global.wm3 = 'MT-MD'
+global.wm2 = '                     「 MOLY-BOT あ⁩ 」'
+global.wm3 = 'Moly-Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,7 +36,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Whatshaap Bot'
+global.author = '© Moly Bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
