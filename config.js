@@ -12,7 +12,7 @@ global.dana = '0089637830532'
 global.pulsa = '089637830532'
 global.gopay = '085774717205'
 //=============『 Info Bot 』=================//
-global.namebot = 'MT-BotzMD'
+global.namebot = 'MOLY-BOT'
 global.gc = 'gaada'
 global.web = 'https://instagram.com/Paldiiiiii' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
