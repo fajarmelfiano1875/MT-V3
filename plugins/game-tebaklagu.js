@@ -29,7 +29,7 @@ Bonus: ${poin} XP
             delete conn.tebaklagu[id]
         }, timeout)
     ]
-    await conn.sendFile(m.chat, json.preview, 'coba-lagi.mp3', '', m)
+    await conn.sendFile(m.chat, json.preview , 'coba-lagi.mp3', '', m)
 }
 handler.help = ['tebaklagu']
 handler.tags = ['game']
