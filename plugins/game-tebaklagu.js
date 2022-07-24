@@ -14,6 +14,13 @@ let handler = async (m, { conn, usedPrefix }) => {
     if (res.status !== 200) throw await res.text()
     let result = await res.json()
     let json = result.result
+}
+if (!res.ok) throw await `${res.status} ${res.statusText}`
+let data = await res.json()
+let json = data[Math.floor(Math.random() * data.length)]
+let caption = `
+${json.soal}
+
     // if (!json.status) throw json
     let caption = `
 TEBAK JUDUL LAGU
