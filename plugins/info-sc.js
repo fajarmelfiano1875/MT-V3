@@ -12,7 +12,7 @@ let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
 Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
+https://github.com/fajarmelfiano1875/MT-V3
 
 _*Jangan Lupa Di Subscribe*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
