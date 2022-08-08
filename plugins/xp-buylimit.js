@@ -2,7 +2,7 @@ const xpperlimit = 350
 let handler = async (m, { conn, command, args }) => {
   let ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '6283136505591-1614953337@g.us', 
     participant : '0@s.whatsapp.net'
     },
     message: {
@@ -29,14 +29,14 @@ let handler = async (m, { conn, command, args }) => {
 handler.help = ['buy<jumlah limit>', 'buy <jumlah limit>', 'buyall']
 handler.tags = ['xp']
 handler.command = /^buylimit([0-9]+)|buylimit|buyalllimit$/i
-handler.owner = false
-handler.mods = false
-handler.premium = false
-handler.group = false
-handler.private = false
+handler.owner = true
+handler.mods = true
+handler.premium = true
+handler.group = true
+handler.private = true
 
-handler.admin = false
-handler.botAdmin = false
+handler.admin = true
+handler.botAdmin = true
 
 handler.fail = null
 handler.exp = 0
